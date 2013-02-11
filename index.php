@@ -4,6 +4,7 @@
         <link rel="stylesheet" href="css/style.css" />
         <link href='http://fonts.googleapis.com/css?family=Overlock+SC' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Rationale' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="/facivon.png" >
         <title>Aleksandr Klimenkov</title>
     </head>
     <body>
