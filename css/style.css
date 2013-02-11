@@ -1,0 +1,52 @@
+html, body {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background: #111;
+    overflow: hidden;
+    font-family: 'Overlock SC', cursive;
+}
+footer {
+    position: absolute;
+    bottom: 0px;
+    display: block;
+    color: #fff;
+    text-align: right;
+    width: 100%;
+}
+.b-letter {
+    position: absolute;
+    top: 40px;
+    left: 80px;
+    font-size: 240px;
+    color: #89DEFF;
+    text-shadow:0 0 20px #89DEFF;
+    display: block;
+}
+.b-info {
+    position: absolute;
+    width: 400px;
+    color: #fff;
+    right: 60px;
+    bottom: 140px;
+    font-family: 'Rationale', sans-serif;
+    text-align: right;
+}
+.b-title {
+    padding: 0px;
+    margin: 0px;
+    font-size: 30px;
+}
+.b-social {
+    padding-top: 40px;
+}
+.b-social a {
+    display: block;
+    float: right;
+    margin-left: 5px;
+}
+.b-date {
+    position: absolute;
+    right: 60px;
+    bottom: 30px;
+}
